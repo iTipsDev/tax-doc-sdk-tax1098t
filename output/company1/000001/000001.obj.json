@@ -1,0 +1,50 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "76-614-0185",
+  "taxFormId" : "7230733",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0959995",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hand, Sawayn and Rogahn"
+    },
+    "address" : {
+      "line1" : "48395 Schultz Manors",
+      "city" : "Port Joya",
+      "region" : "CA",
+      "postalCode" : "90656"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "werner.paucek@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-50-2220",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Alphonso",
+      "last" : "Goyette"
+    },
+    "address" : {
+      "line1" : "82484 Rice Islands",
+      "city" : "East Claude",
+      "region" : "NY",
+      "postalCode" : "80567"
+    },
+    "email" : "joya.homenick@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "studentTinCertification" : true,
+  "accountNumber" : "806-32947-9",
+  "halfTime" : true,
+  "qualifiedTuitionFees" : 200,
+  "adjustmentPriorYear" : 300,
+  "scholarship" : 400,
+  "adjustScholarship" : 500,
+  "includeJanMar" : true,
+  "graduate" : true,
+  "insuranceRefund" : 600
+}

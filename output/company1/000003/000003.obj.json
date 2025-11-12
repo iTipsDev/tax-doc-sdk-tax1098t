@@ -1,0 +1,50 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "67-446-3068",
+  "taxFormId" : "9530579",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0959995",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hand, Sawayn and Rogahn"
+    },
+    "address" : {
+      "line1" : "48395 Schultz Manors",
+      "city" : "Port Joya",
+      "region" : "CA",
+      "postalCode" : "90656"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "werner.paucek@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-69-8099",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Chad",
+      "last" : "Bashirian"
+    },
+    "address" : {
+      "line1" : "3227 Erich Center",
+      "city" : "North Stepanie",
+      "region" : "ND",
+      "postalCode" : "67770"
+    },
+    "email" : "tyler.white@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "studentTinCertification" : true,
+  "accountNumber" : "918-32907-8",
+  "halfTime" : true,
+  "qualifiedTuitionFees" : 200,
+  "adjustmentPriorYear" : 300,
+  "scholarship" : 400,
+  "adjustScholarship" : 500,
+  "includeJanMar" : true,
+  "graduate" : true,
+  "insuranceRefund" : 600
+}
