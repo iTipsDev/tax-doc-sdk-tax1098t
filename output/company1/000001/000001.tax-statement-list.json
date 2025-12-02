@@ -1,0 +1,60 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax1098T" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "89-274-3733",
+        "issuer" : {
+          "tin" : "00-0351237",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Botsford LLC"
+          },
+          "address" : {
+            "line1" : "920 Cronin Circles",
+            "city" : "Port Christinia",
+            "region" : "PA",
+            "postalCode" : "13507"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "gidget.ullrich@hotmail.com"
+        },
+        "recipient" : {
+          "tin" : "000-26-4731",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Delmer",
+            "last" : "McDermott"
+          },
+          "address" : {
+            "line1" : "11289 Fadel Ridges",
+            "city" : "East Merlinville",
+            "region" : "NJ",
+            "postalCode" : "00797"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "graham.waters@hotmail.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "studentTinCertification" : true,
+        "accountNumber" : "782-24232-6",
+        "halfTime" : true,
+        "qualifiedTuitionFees" : 200,
+        "adjustmentPriorYear" : 300,
+        "scholarship" : 400,
+        "adjustScholarship" : 500,
+        "includeJanMar" : true,
+        "graduate" : true,
+        "insuranceRefund" : 600
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}

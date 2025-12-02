@@ -1,0 +1,60 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax1098T" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "65-353-6860",
+        "issuer" : {
+          "tin" : "00-0351237",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Botsford LLC"
+          },
+          "address" : {
+            "line1" : "920 Cronin Circles",
+            "city" : "Port Christinia",
+            "region" : "PA",
+            "postalCode" : "13507"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "gidget.ullrich@hotmail.com"
+        },
+        "recipient" : {
+          "tin" : "000-15-7767",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Florentino",
+            "last" : "Skiles"
+          },
+          "address" : {
+            "line1" : "2844 Block Knoll",
+            "city" : "Lake Theodore",
+            "region" : "CA",
+            "postalCode" : "30916"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "odelia.gleason@gmail.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "studentTinCertification" : true,
+        "accountNumber" : "315-21789-8",
+        "halfTime" : true,
+        "qualifiedTuitionFees" : 200,
+        "adjustmentPriorYear" : 300,
+        "scholarship" : 400,
+        "adjustScholarship" : 500,
+        "includeJanMar" : true,
+        "graduate" : true,
+        "insuranceRefund" : 600
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}
