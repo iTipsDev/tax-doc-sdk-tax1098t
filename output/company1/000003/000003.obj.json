@@ -1,0 +1,58 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "26-866-8533",
+  "taxFormId" : "9149044",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0145703",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Wilderman Inc"
+    },
+    "address" : {
+      "line1" : "3138 Wilkinson Valley",
+      "city" : "Jaimetown",
+      "region" : "HI",
+      "postalCode" : "44398",
+      "unitType" : "Apt",
+      "unitNumber" : "522"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lynwood.mohr@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-88-2122",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Otis",
+      "middle" : "Marry",
+      "last" : "Welch"
+    },
+    "businessName" : {
+      "name1" : "Mann LLC"
+    },
+    "address" : {
+      "line1" : "12381 Von Station",
+      "city" : "West Myongland",
+      "region" : "WV",
+      "postalCode" : "50968",
+      "unitType" : "Apt",
+      "unitNumber" : "759"
+    },
+    "email" : "ruthann.gutmann@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "studentTinCertification" : true,
+  "accountNumber" : "935-18534-3",
+  "halfTime" : true,
+  "qualifiedTuitionFees" : 200,
+  "adjustmentPriorYear" : 300,
+  "scholarship" : 400,
+  "adjustScholarship" : 500,
+  "includeJanMar" : true,
+  "graduate" : true,
+  "insuranceRefund" : 600
+}

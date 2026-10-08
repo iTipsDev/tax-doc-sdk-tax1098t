@@ -1,0 +1,58 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "00-721-1723",
+  "taxFormId" : "0557751",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0145703",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Wilderman Inc"
+    },
+    "address" : {
+      "line1" : "3138 Wilkinson Valley",
+      "city" : "Jaimetown",
+      "region" : "HI",
+      "postalCode" : "44398",
+      "unitType" : "Apt",
+      "unitNumber" : "522"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lynwood.mohr@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-53-7569",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Maxie",
+      "middle" : "Sonny",
+      "last" : "Murphy"
+    },
+    "businessName" : {
+      "name1" : "Ullrich Group"
+    },
+    "address" : {
+      "line1" : "693 Burl Plains",
+      "city" : "Schaeferfort",
+      "region" : "IA",
+      "postalCode" : "92163",
+      "unitType" : "Apt",
+      "unitNumber" : "104"
+    },
+    "email" : "abel.sauer@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "studentTinCertification" : true,
+  "accountNumber" : "757-12152-2",
+  "halfTime" : true,
+  "qualifiedTuitionFees" : 200,
+  "adjustmentPriorYear" : 300,
+  "scholarship" : 400,
+  "adjustScholarship" : 500,
+  "includeJanMar" : true,
+  "graduate" : true,
+  "insuranceRefund" : 600
+}

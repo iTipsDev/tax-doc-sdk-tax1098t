@@ -1,0 +1,58 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "96-244-2798",
+  "taxFormId" : "0783662",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0145703",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Wilderman Inc"
+    },
+    "address" : {
+      "line1" : "3138 Wilkinson Valley",
+      "city" : "Jaimetown",
+      "region" : "HI",
+      "postalCode" : "44398",
+      "unitType" : "Apt",
+      "unitNumber" : "522"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "lynwood.mohr@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-48-7381",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Domingo",
+      "middle" : "Margarite",
+      "last" : "Brown"
+    },
+    "businessName" : {
+      "name1" : "Shields, Beier and Gusikowski"
+    },
+    "address" : {
+      "line1" : "370 Bednar Valley",
+      "city" : "East Jessie",
+      "region" : "RI",
+      "postalCode" : "34880",
+      "unitType" : "Apt",
+      "unitNumber" : "298"
+    },
+    "email" : "noma.corkery@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "studentTinCertification" : true,
+  "accountNumber" : "398-05189-3",
+  "halfTime" : true,
+  "qualifiedTuitionFees" : 200,
+  "adjustmentPriorYear" : 300,
+  "scholarship" : 400,
+  "adjustScholarship" : 500,
+  "includeJanMar" : true,
+  "graduate" : true,
+  "insuranceRefund" : 600
+}
